@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Rituraj Ratan
 tagline:          Living in the world to share quality knowledge ;)
-url:              http://riturajratan.com
+url:              http://backbonejs4u.com
 paginate:         1
 baseurl:          /
 author:
@@ -19,5 +19,4 @@ author:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/riturajratan.github.io
-203.124.118.1
+  repo:           https://github.com/riturajratan.github.io/backbonejs4u
