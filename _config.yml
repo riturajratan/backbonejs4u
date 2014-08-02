@@ -10,7 +10,8 @@ title:            Rituraj Ratan
 tagline:          Living in the world to share quality knowledge ;)
 url:              http://backbonejs4u.com
 paginate:         1
-baseurl:          /
+baseurl:          /backbonejs4u/
+
 author:
   name:           Rituraj Ratan
   url:            https://twitter.com/ratanrituraj
